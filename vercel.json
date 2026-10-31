@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/refresh-ai-news",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}
